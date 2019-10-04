@@ -1,0 +1,28 @@
+{
+  "ignore": [
+    "/\\.(text-|close|open|active|in|modal|alert|hide)(\\s|\\W)*/",
+    ".caret-right",
+    ".bg-secondary",
+    "ul>ul",
+    "/\\.dropdown*/",
+    "/\\.jumbotron*/",
+    "/\\.navbar-shrink*/",
+    "/\\.dropdown-menu*/",
+    ".popover",
+    "/\\.table*/",
+    "/\\.btn*/",
+    "/\\.btn-*/",
+    "/\\.caret*/",
+    "/\\.col-*/",
+    "/\\.(hidden|visible)-*/",
+    "/\\.collaps*/",
+    "/\\.nav-tabs*/",
+    "/\\.nav-justified*/",
+    "/\\.form-group*/",
+    "/\\.error*/",
+    "/\\.text-success*/",
+    "/\\.text-warning*/",
+    "/collapse-heading/",
+    "/\\.icon-*/"
+  ]
+}
