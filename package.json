@@ -57,7 +57,7 @@
     "grunt-contrib-watch": "^1.0.0",
     "grunt-csso": "2.2.0",
     "grunt-shell": "^1.2.1",
-    "grunt-uncss": "^0.6.1",
+    "grunt-uncss": "^0.10.1",
     "less-plugin-clean-css": "^1.5.1",
     "progress-bar-webpack-plugin": "^1.11.0",
     "serve": "^6.5.3",
